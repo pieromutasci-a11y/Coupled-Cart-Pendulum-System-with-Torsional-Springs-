@@ -1,0 +1,5 @@
+# Simulink / MATLAB cache files
+*.slxc
+slprj/
+*.asv
+*.autosave
